@@ -56,9 +56,9 @@ const Hero = () => {
               <SheetContent>
                 <ul className="flex flex-col gap-[10px] font-medium text-[16px] ">
                   <li className="hover:text-bordercoloryello cursor-pointer"><Link href="/">Home</Link></li>
-                  <li className="hover:text-bordercoloryello cursor-pointer"><Link href="/ourmenu">Menu</Link></li>
+                  <li className="hover:text-bordercoloryello cursor-pointer"><Link href="/menu">Menu</Link></li>
 
-                  <li className="hover:text-bordercoloryello cursor-pointer"><Link href="/ourchef">Chef</Link></li>
+                  <li className="hover:text-bordercoloryello cursor-pointer"><Link href="/chef">Chef</Link></li>
 
                   <li className="hover:text-bordercoloryello cursor-pointer"><Link href="/shop">Shop</Link></li>
                   <li className="hover:text-bordercoloryello cursor-pointer"><Link href="/signin">Signin</Link></li>
